@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simbaesther
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m interested in Full-stack Development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me +254781702906
